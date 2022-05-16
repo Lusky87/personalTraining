@@ -1,0 +1,28 @@
+{
+  "name": "personaltraining",
+  "version": "1.0.0",
+  "description": "다양한 개인프로젝트를 진행해보려한다",
+  "type":"module",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx http-server -p 80"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lusky87/personalTraining.git"
+  },
+  "keywords": [
+    "training"
+  ],
+  "author": "yongmin jo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lusky87/personalTraining/issues"
+  },
+  "homepage": "https://github.com/Lusky87/personalTraining#readme",
+  "devDependencies": {
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
